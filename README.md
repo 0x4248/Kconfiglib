@@ -1,0 +1,1 @@
+Kconfiglib is a Python library for processing [Kconfig](https://www.kernel.org/doc/html/latest/kbuild/kconfig-language.html) files. It can be used to query information about the options, choices, menus, and comments in Kconfig files, and to generate configuration files.
