@@ -9,7 +9,7 @@ Kconfiglib is a Python library for processing [Kconfig](https://www.kernel.org/d
 Clone the repository and install the package using pip:
 
 ```bash
-git clone https://github.com/lewisevans2007/Kconfiglib
+git clone https://github.com/0x4248/Kconfiglib
 cd Kconfiglib
 python -m pip install build
 python -m build
